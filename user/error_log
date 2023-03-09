@@ -1,0 +1,14 @@
+[08-Feb-2023 11:50:56 UTC] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: string * string in /home/binalgist/public_html/lms/user/rating.php:138
+Stack trace:
+#0 {main}
+  thrown in /home/binalgist/public_html/lms/user/rating.php on line 138
+[08-Feb-2023 11:51:15 UTC] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: string * string in /home/binalgist/public_html/lms/user/rating.php:138
+Stack trace:
+#0 {main}
+  thrown in /home/binalgist/public_html/lms/user/rating.php on line 138
+[10-Feb-2023 11:18:07 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting "elseif" or "else" or "endif" in /home/binalgist/public_html/lms/user/book_detail.php on line 109
+[10-Feb-2023 11:18:11 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting "elseif" or "else" or "endif" in /home/binalgist/public_html/lms/user/book_detail.php on line 109
+[14-Feb-2023 11:49:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function current_user_id() in /home/binalgist/public_html/lms/user/logout.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/binalgist/public_html/lms/user/logout.php on line 5
